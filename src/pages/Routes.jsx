@@ -4,7 +4,6 @@ import Agence from './Agence'
 import Projects from './Projects'
 import Header from '@/components/Header'
 import FullScreenNav from '../components/Header/FullScreenNav'
-
 const Index = () => {
     return (
         <>
