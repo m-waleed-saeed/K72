@@ -53,7 +53,7 @@ const Agence = () => {
             </h1>
           </div>
           <div className="mt-12 px-6 sm:px-12 lg:pl-[40%] lg:pr-16">
-            <p className="text-lg sm:text-2xl lg:text-4xl">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Norem ipsum dolor sit amet consectetur adipisicing elit. Esse, veniam cum iste earum deserunt debitis quam vitae dolore nihil tempore. Rem hic tempora, excepturi corrupti autem aliquid architecto laudantium dolores! Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, enim possimus.</p>
+            <p className="text-lg sm:text-2xl lg:text-4xl">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Norem ipsum dolor sit amet consectetur adipisicing. Esse, veniam cum iste earum deserunt debitis quam vitae dolore nihil tempore. Rem hic tempora, excepturi corrupti autem aliquid architecto laudantium dolores! Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, enim possimus.</p>
           </div>
         </div>
       </div>
